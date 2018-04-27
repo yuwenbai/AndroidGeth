@@ -11,7 +11,7 @@ import org.ethereum.geth.Transaction;
 import java.security.Key;
 
 /**
- * Created by mobilerover on 2017/10/27.
+ *
  */
 
 public class MySigner implements Signer {
